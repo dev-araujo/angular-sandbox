@@ -1,51 +1,15 @@
-# Angular Sandbox
+# Angular Sandbox 🅰️
 
-Sandbox para estudos e experimentos com Angular.
+Repositório com estudos e experimentos utilizando **[Angular](https://angular.dev/)** 🅰️
 
-## Projetos
+## Índice
 
-- **pokedex-angular:** [/pokedex-angular](./pokedex-angular)
-- **Tecnologias:** Angular, TypeScript, PokeAPI
-- **Descrição:** Pokédex consumindo PokeAPI
+*   [Pokédex Angular](./pokedex-angular)
 
 ---
 
-## Estrutura
+#### Autor 👷
 
-```
-angular-sandbox/
-├── README.md
-└── pokedex-angular/
-```
+<img src="https://avatars.githubusercontent.com/u/97068163?v=4" width=120 />
 
-## Como usar
-
-### Clonar o repositório
-
-```bash
-git clone https://github.com/dev-araujo/angular-sandbox.git
-cd angular-sandbox
-```
-
-### Executar um projeto
-
-```bash
-cd pokedex-angular
-npm install
-npm start
-```
-
-Acesse `http://localhost:4200` no navegador.
-
----
-
-## Adicionar novos projetos
-
-1. Crie uma nova pasta na raiz
-2. Inicialize o projeto Angular
-3. Adicione código e README
-4. Atualize este README
-
----
-
-**Nota:** Este repositório consolida projetos de estudo em Angular.
+[Adriano P Araujo](https://www.linkedin.com/in/araujocode/)
