@@ -4,7 +4,7 @@ Repositório com estudos e experimentos utilizando **[Angular](https://angular.d
 
 ## Índice
 
-- [Pokédex Angular](./pokedex-angular)
+- [Crypto angular](https://github.com/dev-araujo/crypto-tracker-angular)
 - [Ferengi Rules](https://github.com/dev-araujo/ferengi-rules)
 - [Go Horse Token](https://github.com/dev-araujo/go-horse-token)
 - [WK Dashboard Test](https://github.com/dev-araujo/wk-dashboard-test)
@@ -12,6 +12,7 @@ Repositório com estudos e experimentos utilizando **[Angular](https://angular.d
 - [API Healthchecker](https://github.com/dev-araujo/api-healthchecker)
 - [Exchange BRL Rate Test](https://github.com/dev-araujo/exchange-brl-rate-test)
 - [Habit Tracker](https://github.com/dev-araujo/habit-tracker)
+- [Pokédex Angular](./pokedex-angular)
 
 ---
 
